@@ -15,7 +15,7 @@ Define your pure domain logic once as a transition function. Plug it into any ru
 | Package | Repo | Description |
 |---------|------|-------------|
 | **[Picea](https://github.com/picea/picea)** | [picea/picea](https://github.com/picea/picea) | The kernel: `Automaton<>`, `Result<>`, `Decider<>`, Runtime, Diagnostics |
-| **[Picea.Abies](https://github.com/picea/abies)** | [picea/abies](https://github.com/picea/abies) | Model-View-Update framework for Blazor — Browser, Server, Kestrel, Analyzers, Templates |
+| **[Picea.Abies](https://github.com/picea/abies)** | [picea/abies](https://github.com/picea/abies) | Model-View-Update framework — Browser, Server, Kestrel, Analyzers, Templates |
 | **[Picea.Mariana](https://github.com/picea/mariana)** | [picea/mariana](https://github.com/picea/mariana) | Resilience patterns: Retry, Circuit Breaker, Rate Limiter, Hedging, Timeout, Fallback |
 | **[Picea.Glauca](https://github.com/picea/glauca)** | [picea/glauca](https://github.com/picea/glauca) | Event Sourcing: AggregateRunner, EventStore, Projections, KurrentDB adapter |
 | **[Picea.Rubens](https://github.com/picea/rubens)** | [picea/rubens](https://github.com/picea/rubens) | Actor model: Actor, Address, Envelope, Reply |
